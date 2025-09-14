@@ -4,7 +4,7 @@
 This repository contains a React-based presentation on contaminants in edible oils, formatted using Bunge's official design system.
 
 ## Structure
-- `public/`: Static HTML entry point
+-  Static HTML entry point
 - `css/`: Custom Bunge design system styles
 - `src/components/`: React components
 - `src/data/`: Data definitions
